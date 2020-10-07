@@ -11,9 +11,6 @@ Get Datastores
 Get Hosts and
 Get VMs
 
-editvm.py
+vmcred.py
 Edit the basic configuration of the VMs on a particular host (ONLY vCPU and Memory)
-
-createvm.py
 Create a vm with ubuntu64 architecture, provisioning the Storage,vCPU and Memory.
-
